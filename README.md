@@ -3,7 +3,7 @@
 Resume Website
 
 File Structure
-
+```markup
 resume-website/
 │
 ├── index.html
@@ -13,6 +13,7 @@ resume-website/
 │   └── profile.jpg
 └── documents/
     └── resume.pdf
+```
 
 Description
 
